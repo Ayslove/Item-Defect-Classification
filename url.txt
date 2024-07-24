@@ -1,0 +1,2 @@
+Dataset = https://www.kaggle.com/datasets/rabieelkharoua/predicting-manufacturing-defects-dataset/data
+deployment = https://huggingface.co/spaces/Ayslove/DefectPrediction
